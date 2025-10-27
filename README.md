@@ -1,0 +1,2 @@
+# doc-hotel
+hotel help
